@@ -1,8 +1,8 @@
-# Hi, I'm Nathan 👋
+# WIP
 
-I build web applications, mostly with PHP and Symfony.
+PLACEHOLDER
 
-## Projects
+## Academy Projects
 
 | Project | Description | Stack |
 | :--- | :--- | :--- |
